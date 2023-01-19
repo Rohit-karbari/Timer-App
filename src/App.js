@@ -31,6 +31,7 @@ function App() {
         </select>
       </p>
       <Clock time={time.toLocaleTimeString()} color={color}/>
+      <button>like</button>
       <button>Not Liked</button>
     </div>
   );
