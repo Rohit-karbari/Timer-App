@@ -5,6 +5,7 @@ const test = () => {
     <div>
         <h1>new file</h1>
         <button>Button for testing</button>
+        <button>antother test</button>
     </div>
   )
 }
